@@ -1,0 +1,7 @@
+[
+  { "order_id": 501, "customer_id": 101, "product_ids": [201, 202], "order_date": "2025-10-10", "amount": 400 },
+  { "order_id": 502, "customer_id": 102, "product_ids": [203], "order_date": "2025-10-12", "amount": 150 },
+  { "order_id": 503, "customer_id": 103, "product_ids": [201, 204], "order_date": "2025-10-15", "amount": 300 },
+  { "order_id": 504, "customer_id": 101, "product_ids": [202, 205], "order_date": "2025-10-20", "amount": null },
+  { "order_id": 505, "customer_id": 104, "product_ids": null, "order_date": "2025-10-25", "amount": 500 }
+]
