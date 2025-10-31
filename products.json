@@ -1,7 +1,6 @@
-[
-  { "product_id": 201, "product_name": "Laptop", "category": "Electronics", "price": 800 },
-  { "product_id": 202, "product_name": "Mouse", "category": "Accessories", "price": 20 },
-  { "product_id": 203, "product_name": "Keyboard", "category": "Accessories", "price": 35 },
-  { "product_id": 204, "product_name": "Monitor", "category": "Electronics", "price": 200 },
-  { "product_id": 205, "product_name": "USB Cable", "category": "Accessories", "price": null }
-]
+{ "product_id": 201, "product_name": "Laptop", "category": "Electronics", "price": 800 },
+{ "product_id": 202, "product_name": "Mouse", "category": "Accessories", "price": 20 },
+{ "product_id": 203, "product_name": "Keyboard", "category": "Accessories", "price": 35 },
+{ "product_id": 204, "product_name": "Monitor", "category": "Electronics", "price": 200 },
+{ "product_id": 205, "product_name": "USB Cable", "category": "Accessories", "price": null }
+
